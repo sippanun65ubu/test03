@@ -1,0 +1,6 @@
+- model: myapp.Course
+  pk: "1"
+  fields:
+    Course_id: "1"
+    Course_name: "math"
+    teacher: "gay"
